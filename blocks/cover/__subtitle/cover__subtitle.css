@@ -1,0 +1,10 @@
+.cover__subtlile{
+    padding-top: 32px;
+    max-width: 360px;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 400;
+    font-style: Regular;
+    text-align: center;
+    margin: 0 auto;
+}
