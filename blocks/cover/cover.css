@@ -1,5 +1,7 @@
 .cover{
-   background-image: url(../../images/cover-trains.jpg); 
+   background-image: url(../../images/cover-trains.jpg);
+   object-fit: cover;
+   background-position: center;
    width: 100%;
    max-width: 1184px;
    min-height: 740px;
@@ -9,9 +11,11 @@
 }
 
 .cover::before{
+    content: "";
     top: 0;
     right: 0;
     left: 0;
     bottom: 0;
-    opacity: 0.3;
+    background-color: rgba(42, 44, 47, 0.3);
+    position: absolute;
 }

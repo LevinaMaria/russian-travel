@@ -4,7 +4,7 @@
     font-size: 18px;
     line-height: 22px;
     font-weight: 400;
-    font-style: Regular;
     text-align: center;
     margin: 0 auto;
+    padding-left: calc(50vw - 328px);
 }

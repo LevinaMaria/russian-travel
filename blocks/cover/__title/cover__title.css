@@ -2,9 +2,9 @@
     font-size: 72px;
     line-height: 76px;
     font-weight: 900;
-    font-style: Black;
     max-width: 560px;
     text-align: center;
     margin: 0 auto;
     padding-top: 245px;
+    padding-left: calc(50vw - 328px);
 }
