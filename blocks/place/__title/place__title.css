@@ -5,5 +5,5 @@
     max-width: 460px;
     max-height: 152px;
     margin: 0;
-    padding-bottom: 48px;
+    grid-area: title;
 }
