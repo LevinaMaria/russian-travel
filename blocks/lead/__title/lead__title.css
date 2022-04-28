@@ -9,8 +9,8 @@
 
 @media screen and (max-width: 1279px) {
   .lead__title{
-    font-size: calc(40px + (96 - 40) * ( (100vw - 320px) / (768-320) ));
-    line-height: calc(44px + (100 - 44) * ( (100vw - 320px) / (768-320) ));
+    font-size: calc(40px + (96 - 40) * ( (100vw - 320px) / (768 - 320) ));
+    line-height: calc(44px + (100 - 44) * ( (100vw - 320px) / (768 - 320) ));
     }
   @media screen and (max-width: 319px) {
     .lead__title{
