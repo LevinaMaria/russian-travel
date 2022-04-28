@@ -1,5 +1,13 @@
 .places{
     max-width: 984px;
     padding-top: 92px;
+    padding-bottom: 92px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 320px) {
+    .places{
+        padding-bottom: 66px;
+    }
+}
+/* TODO @media для паддингов между секциями */
