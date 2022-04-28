@@ -8,6 +8,6 @@
 @media screen and (max-width: 320px) {
     .places{
         padding-bottom: 66px;
+        padding-top: 64px;
     }
 }
-/* TODO @media для паддингов между секциями */
