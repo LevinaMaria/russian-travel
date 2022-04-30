@@ -7,17 +7,10 @@
   margin: 0 auto;
 }
 
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 767px) {
   .cover__title {
-    font-size: calc(32px + (72 - 32) * ((100vw - 320px) / (768 - 20)));
-    line-height: calc(35px + (76 - 35) * ((100vw - 320px) / (768 - 320)));
-  }
-
-  @media screen and (max-width: 319px) {
-    .lead__title {
-      font-size: 32px;
-      line-height: 35px;
-      max-width: 288px;
-    }
+    font-size: 32px;
+    line-height: 35px;
+    max-width: 288px;
   }
 }

@@ -14,14 +14,14 @@
     }
   }
 
-  @media screen and (max-width: 767px) {
+  @media screen and (max-width: 768px) {
     .content {
       max-width: 720px;
       padding: 0 24px;
     }
   }
 
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 450px) {
     .content {
       max-width: 288px;
       padding: 0 16px;
