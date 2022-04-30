@@ -4,3 +4,9 @@
     font-weight: 400;
     color: #AAAAAA;
 }
+
+@media screen and (max-width: 568px) {
+    .place__url-heading {
+        padding: 0 16px;
+    }
+}

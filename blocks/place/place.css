@@ -1,12 +1,11 @@
 .place {
-    padding: 0;
     padding-bottom: 80px;
     display: grid;
     grid-template-columns: 460px 1fr;
     gap: 48px 40px;
     grid-template-areas: "title website"
         "image text-area";
-    margin: 0 auto;
+    /* margin: 0 auto; */
 }
 
 .place:last-child {

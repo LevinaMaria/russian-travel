@@ -19,4 +19,10 @@
             line-height: 35px;
         }
     }
+
+    @media screen and (max-width: 568px) {
+        .place__title {
+            padding: 0 16px;
+        }
+    }
 }

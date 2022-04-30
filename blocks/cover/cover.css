@@ -2,7 +2,7 @@
     max-width: 1184px;
     min-height: 740px;
     margin: 0 auto;
-    padding: 0;
+    padding: 0 48px;
     box-sizing: border-box;
     position: relative;
 }
@@ -11,5 +11,6 @@
     .cover {
         max-width: 100%;
         min-height: 200px;
+        padding: 0;
     }
 }
