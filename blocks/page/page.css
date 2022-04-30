@@ -1,4 +1,4 @@
-.page{
+.page {
     background-color: #2A2C2F;
     font-family: "inter", Arial, Helvetica, sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -7,4 +7,5 @@
     box-sizing: border-box;
     width: 100%;
     margin: 0 auto;
+    min-width: 320px;
 }

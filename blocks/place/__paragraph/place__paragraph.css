@@ -1,5 +1,5 @@
-.place__paragraph{
-    max-width: 484px;
+.place__paragraph {
+    /* max-width: 484px; */
     font-size: 18px;
     line-height: 29px;
     font-weight: 400;
@@ -7,6 +7,13 @@
     padding-bottom: 26px;
 }
 
-.place__paragraph:last-child{
+.place__paragraph:last-child {
     padding-bottom: 0;
+}
+
+@media screen and(max-width: 768px) {
+    .place__paragraph {
+        font-size: 16px;
+        line-height: 26px;
+    }
 }
