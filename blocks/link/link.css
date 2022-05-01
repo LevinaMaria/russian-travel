@@ -4,5 +4,6 @@
 
 .link:hover {
   cursor: pointer;
-  color: #44868d;
+  /* color: #44868d; */
+  opacity: 0.8;
 }
