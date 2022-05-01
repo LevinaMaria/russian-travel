@@ -1,7 +1,8 @@
-.link{
-    color: #fff;
+.link {
+  color: #fff;
 }
 
 .link:hover {
-    cursor: pointer;
+  cursor: pointer;
+  color: #44868d;
 }
